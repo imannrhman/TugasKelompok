@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Poker'; 
+  src: url('fonts/Poker.ttf');
+}
+
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -55,7 +61,7 @@
     letter-spacing: 3px;
     line-height: 0.8;
     padding-top: 50px;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Poker", sans-serif;
   }
   header h1 span {
     text-transform: uppercase;
